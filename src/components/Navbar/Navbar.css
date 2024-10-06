@@ -1,0 +1,28 @@
+.nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 100px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.navLogo{
+  font-size: 44px;
+  color: #fff;
+}
+
+.navList{
+  color: #fff;
+  display: flex;
+  list-style: none;
+  gap: 30px;
+  font-size: 22px;
+  align-items: center;
+}
+
+.contact{
+  background-color: #fff;
+  color: black;
+  padding: 6px 20px;
+  border-radius: 25px;
+}
